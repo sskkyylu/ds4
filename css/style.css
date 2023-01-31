@@ -1,0 +1,67 @@
+body{
+	padding: 10px;
+	background-color: #a5a58d;
+	font-size: 125%;
+}
+
+h1{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-style: italic;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    font-size: 48px;
+}
+img{
+    width: 45%;
+    margin: 5px 10px 20px 15px;
+    border: solid #6686e3 10px;
+    display: block;
+    max-width: 100%;
+    height: auto;
+    box-shadow: 10px 15px #4656c4;
+}
+
+h2{
+    color:aliceblue;
+    font-size: 30px;
+}
+
+li{
+    display: inline-block;
+    margin: 6px;
+    padding-right: 5px;
+}
+
+.history{
+    color: blue;
+    border: solid 5px;
+    text-transform: uppercase;
+}
+
+.literature{
+    color: blue;
+    border: solid 5px;
+    text-transform: uppercase;
+}
+
+.index{
+    color: blue;
+    border: solid 5px;
+    text-transform: uppercase;
+}
+
+.femdict{
+    color: blue;
+    border: solid 5px;
+    text-transform: uppercase;
+}
+
+a:hover{
+    background-color:#ffffff
+}
+
+p{
+    line-height: 1.4;
+}
+
